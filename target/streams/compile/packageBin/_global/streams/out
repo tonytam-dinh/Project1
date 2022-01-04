@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\Tony\IdeaProjects\Project1.3\target\scala-2.11\testhive_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Tony\IdeaProjects\Project1.3\target\scala-2.11\classes\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\retail_db[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Tony\IdeaProjects\Project1.3\target\scala-2.11\classes\com\retail_db[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\retail_db\hivetestP1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Tony\IdeaProjects\Project1.3\target\scala-2.11\classes\com\retail_db\hivetestP1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\retail_db\hivetestP1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Tony\IdeaProjects\Project1.3\target\scala-2.11\classes\com\retail_db\hivetestP1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\retail_db\Login$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Tony\IdeaProjects\Project1.3\target\scala-2.11\classes\com\retail_db\Login$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\retail_db\Login$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Tony\IdeaProjects\Project1.3\target\scala-2.11\classes\com\retail_db\Login$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\retail_db\Login.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Tony\IdeaProjects\Project1.3\target\scala-2.11\classes\com\retail_db\Login.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\retail_db\UserInput$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Tony\IdeaProjects\Project1.3\target\scala-2.11\classes\com\retail_db\UserInput$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\retail_db\UserInput.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Tony\IdeaProjects\Project1.3\target\scala-2.11\classes\com\retail_db\UserInput.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\retail_db\View$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Tony\IdeaProjects\Project1.3\target\scala-2.11\classes\com\retail_db\View$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\retail_db\View.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Tony\IdeaProjects\Project1.3\target\scala-2.11\classes\com\retail_db\View.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

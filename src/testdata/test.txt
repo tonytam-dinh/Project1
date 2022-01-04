@@ -1,0 +1,21 @@
+Three Sisters,Heather Morris,320,5.0,7,St. Martin's Press
+The Love Hypothesis,Ali Hazelwood,384,4.0,5,Penguin 
+Another Kind of Eden,James Lee Burke,256,3.5,6,Simon and Schuster 
+It Happened One Summer,Tessa Bailey,416,4.0,3,HarperCollins
+Razorblade Tears,S. A. Cosby,320,4.0,9,Flatiron Books
+Incense and Sensibility,Sonali Dev,400,4.0,4,HarperCollins
+The Paper Palace,Miranda Cowley Heller,400,3.5,9,Penguin
+Hell of a Book,Jason Mott,336,3.5,5,Penguin
+The Wolf and the Woodsman,Ava Reid,432,4.0,4,HarperCollins
+The Crown of Gilded Bones,Jennifer L. Armentrout,645,2.5,3,Blue Box Press
+Hummingbird Salamander,Jeff VanderMeer,368,3.5,7,MCD
+The Red Lotus,Chris Bohjalian,400,3.5,20,Vintage
+This Time Next Year,Sophie Cousens,368,4.0,3,Penguin
+You Had Me at Hola,Alexis Daria,2384,4.0,1,HarperCollins
+Harrow the Ninth,Tamsyn Muir,512,4.0,13,Tordotcom
+It Ends with Us,Colleen Hoover,448,4.0,29,Pocket Books
+One to Watch,Kate Stayman-London,2432,4.0,26,Dial Press
+Hard Work Never Fails,Mukesh Ravichandran,30,2.0,1,MPS Publishers
+Almond,Won-pyung Sohn,272,5.0,2,HarperCollins
+Sea Wife,Amity Gaige,288,3.5,10,Vintage
+The Book of Longings,Sue Monk Kidd,432,3.5,16,Penguin

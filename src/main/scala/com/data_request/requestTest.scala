@@ -17,14 +17,13 @@ object requestTest extends App {
     if (inputStream != null) inputStream.close
     content
   }
-//AIzaSyD1sCMABciAUgQiL0SFAi54UbyvL4UWmfU
   Thread.sleep(2000)
-  var temp40 = get("https://www.googleapis.com/books/v1/volumes?q=subject:fiction&printType=books&maxResults=40&orderBy=newest&key=AIzaSyD1sCMABciAUgQiL0SFAi54UbyvL4UWmfU")
+  var temp40 = get("https://www.googleapis.com/books/v1/volumes?q=subject:fiction&printType=books&maxResults=40&orderBy=newest&key=")
   Thread.sleep(2000)
-  var temp80 = get("https://www.googleapis.com/books/v1/volumes?q=subject:fiction&printType=books&maxResults=40&orderBy=newest&startIndex=40&key=AIzaSyD1sCMABciAUgQiL0SFAi54UbyvL4UWmfU")
+  var temp80 = get("https://www.googleapis.com/books/v1/volumes?q=subject:fiction&printType=books&maxResults=40&orderBy=newest&startIndex=40&key=")
   Thread.sleep(2000)
-  var temp120 = get("https://www.googleapis.com/books/v1/volumes?q=subject:fiction&printType=books&maxResults=40&orderBy=newest&startIndex=80&key=AIzaSyD1sCMABciAUgQiL0SFAi54UbyvL4UWmfU")
+  var temp120 = get("https://www.googleapis.com/books/v1/volumes?q=subject:fiction&printType=books&maxResults=40&orderBy=newest&startIndex=80&key=")
   Thread.sleep(2000)
-  var temp160 = get("https://www.googleapis.com/books/v1/volumes?q=subject:fiction&printType=books&maxResults=40&orderBy=newest&startIndex=120&key=AIzaSyD1sCMABciAUgQiL0SFAi54UbyvL4UWmfU")
+  var temp160 = get("https://www.googleapis.com/books/v1/volumes?q=subject:fiction&printType=books&maxResults=40&orderBy=newest&startIndex=120&key=")
 
 }
